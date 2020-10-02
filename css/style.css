@@ -1,0 +1,23 @@
+.logo{
+	display: inline;
+	padding:8px 16px;
+}
+.lg{
+	color: white;
+}
+
+.black{
+	background-color: black;
+}
+.padd{
+	padding: 100px 0;
+}
+body{
+	background-color: black;
+}
+.about, .slider{
+	background-color: white;
+}
+.tx_bl{
+	color: black;
+}
